@@ -2,3 +2,5 @@ cats
 dogs
 pigs
 monkeys
+elephants
+birds
